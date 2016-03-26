@@ -27,7 +27,7 @@ A sorting algorithm that works by first organizing the data to be sorted into a 
 ### Tree data structure 
  A tree is a widely used abstract data type (ADT) or data structure implementing this ADT that simulates a hierarchical tree structure, with a root value and subtrees of children, represented as a set of linked nodes.
 
-**Insertion Complexity:**	worst case O(logn), average best case O(logn)
-**Searching Complexity:**	worst case O(logn), average best case O(logn)
-**Deletion Complexity:**	worst case O(logn), average best case O(logn)
+**Insertion Complexity:**	worst case O(logn), average best case O(logn)<br/>
+**Searching Complexity:**	worst case O(logn), average best case O(logn)<br/>
+**Deletion Complexity:**	worst case O(logn), average best case O(logn)<br/>
 **Sorting Complexity:**  O(nlogn)
