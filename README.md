@@ -1,6 +1,6 @@
 # AlgorithmsInPython
 ## Algorithm
-### DEFINITION 
+###### DEFINITION 
 An algorithm is a sequence of unambiguous instructions for solving a problem.
 
 ### Selection sort
