@@ -32,3 +32,16 @@ A sorting algorithm that works by first organizing the data to be sorted into a 
 **Searching Complexity:**	worst case O(logn), average best case O(logn)<br/>
 **Deletion Complexity:**	worst case O(logn), average best case O(logn)<br/>
 **Sorting Complexity:**  O(nlogn)
+
+### AVL tree
+<p>An AVL tree is another balanced binary search tree. Named after their inventors, Adelson-Velskii and Landis, they were the first dynamically balanced trees to be proposed. Like red-black trees, they are not perfectly balanced, but pairs of sub-trees differ in height by at most **1**, maintaining an **O(logn)** search time. Addition and deletion operations also take O(logn) time.</p>
+#######Definition of an AVL tree
+An AVL tree is a binary search tree which has the following properties:<br/>
+<ol>
+<li>The sub-trees of every node differ in height by at most one.</li>
+<li>Every sub-tree is an AVL tree.</li>
+</ol>
+**Search Complexity:**	worst case O(logn), average best case O(logn)<br/>
+**Insert Complexity:** worst case O(logn), average best case O(logn)<br/>
+**Delete Complexity:**	worst case O(logn), average best case O(logn)<br/>
+### Red Black tree
