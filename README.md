@@ -1,5 +1,6 @@
 # AlgorithmsInPython
-## Algorithm
+This repo contain Searching algorithms python with sorting using values and pointer, tree data structure ,Log algorithms,Finding series in given number of list and Interfaces implementation.
+### Algorithm
 ###### DEFINITION 
 An algorithm is a sequence of unambiguous instructions for solving a problem.
 
@@ -45,3 +46,12 @@ An AVL tree is a binary search tree which has the following properties:<br/>
 **Insert Complexity:** worst case O(logn), average best case O(logn)<br/>
 **Delete Complexity:**	worst case O(logn), average best case O(logn)<br/>
 ### Red Black tree
+<p>A red–black tree is a kind of self-balancing binary search tree. Each node of the binary tree has an extra bit, and that bit is often interpreted as the color (red or black) of the node. These color bits are used to ensure the tree remains approximately balanced during insertions and deletions.</p>
+######Properties
+<ol>
+<li>A node is either red or black.</li>
+<li>The root is black. This rule is sometimes omitted. Since the root can always be changed from red to black, but not necessarily vice versa, this rule has little effect on analysis.</li>
+<li>All leaves (NIL) are black.</li>
+<li>If a node is red, then both its children are black.</li>
+<li>Every path from a given node to any of its descendant NIL nodes contains the same number of black nodes. Some definitions: the number of black nodes from the root to a node is the node's black depth; the uniform number of black nodes in all paths from root to the leaves is called the black-height of the red–black tree.</li>
+</ol>
